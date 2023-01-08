@@ -110,15 +110,4 @@ if(fsRight !==null) {
             console.log(index);
             index = imgs.length -1;
         }
-        })   
-}
-    
-
-
-
-
-
-
-
-
-
+        })} 
